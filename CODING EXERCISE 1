@@ -6,13 +6,14 @@ public class ReverseOrder {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 int item0, item1, item2, item3, item4;
+		 
 		 int[]item = new int[5];
 		 int sum=0;
-		 String name0,name1,name2,name3,name4;
+		 int[][]sales = new int[3][3];
 		 String[]name = new String[5];
 		 
-		    Scanner input = new Scanner(System.in);
+		 Scanner input = new Scanner(System.in);
+		    
 		 //integer
 		    System.out.println("Enter five integers one number per line: ");
 		    for (int i=0; i<item.length; i++) {
@@ -35,5 +36,19 @@ public class ReverseOrder {
 		    for (int j=0; j<name.length; j++)
 		    	System.out.println("Names are: " + "nameList "+ j + "= " +name[j]);  
 		    
+		    //sales   
+		 	System.out.println("Enter 9 value of sales: ");
+		 	for (int k=0; k<sales.length; k++)
+		 		for (int l=0; l<sales.length; l++){
+		    		sales[k][l]=input.nextInt();
+		    	}
+		    for (int k=0; k<sales.length; k++)
+		    	for (int l=0; l<sales.length; l++) {
+		    	System.out.println("k = " +k +" l = " +l);
+		    	System.out.println("Value for sales is "+k +l +sales[k][l]);
+		    	}  
+		    
+		    
+		 
 	}
 }
