@@ -1,24 +1,52 @@
 Enter five integers one number per line: 
-1
-2
-3
-4
-5
-Items are: index 0= 1
-Items are: index 1= 2
-Items are: index 2= 3
-Items are: index 3= 4
-Items are: index 4= 5
-Sum: 15
-Average: 3
+12
+121
+23
+22
+23
+Items are: index 0= 12
+Items are: index 1= 121
+Items are: index 2= 23
+Items are: index 3= 22
+Items are: index 4= 23
+Sum: 201
+Average: 40
 Enter five name per line: 
-ezu
 ali
 abu
-mael
+chong
 kajul
-Names are: nameList 0= ezu
-Names are: nameList 1= ali
-Names are: nameList 2= abu
-Names are: nameList 3= mael
-Names are: nameList 4= kajul
+ezy
+Names are: nameList 0= ali
+Names are: nameList 1= abu
+Names are: nameList 2= chong
+Names are: nameList 3= kajul
+Names are: nameList 4= ezy
+Enter 9 value of sales: 
+12
+12
+34
+67
+23
+12
+123
+44
+2
+k = 0 l = 0
+Value for sales is 0012
+k = 0 l = 1
+Value for sales is 0112
+k = 0 l = 2
+Value for sales is 0234
+k = 1 l = 0
+Value for sales is 1067
+k = 1 l = 1
+Value for sales is 1123
+k = 1 l = 2
+Value for sales is 1212
+k = 2 l = 0
+Value for sales is 20123
+k = 2 l = 1
+Value for sales is 2144
+k = 2 l = 2
+Value for sales is 222
