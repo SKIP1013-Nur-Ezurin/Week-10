@@ -1,0 +1,24 @@
+Enter five integers one number per line: 
+1
+2
+3
+4
+5
+Items are: index 0= 1
+Items are: index 1= 2
+Items are: index 2= 3
+Items are: index 3= 4
+Items are: index 4= 5
+Sum: 15
+Average: 3
+Enter five name per line: 
+ezu
+ali
+abu
+mael
+kajul
+Names are: nameList 0= ezu
+Names are: nameList 1= ali
+Names are: nameList 2= abu
+Names are: nameList 3= mael
+Names are: nameList 4= kajul
