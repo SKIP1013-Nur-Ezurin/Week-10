@@ -1,0 +1,22 @@
+Enter eight number / data
+1
+23
+34
+3
+The sum = 61
+The total of the sum = 61
+
+23
+2
+3
+44
+The sum = 72
+The total of the sum = 133
+Row = 0 Col = 0 1
+Row = 0 Col = 1 23
+Row = 0 Col = 2 34
+Row = 0 Col = 3 3
+Row = 1 Col = 0 23
+Row = 1 Col = 1 2
+Row = 1 Col = 2 3
+Row = 1 Col = 3 44
